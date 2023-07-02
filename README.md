@@ -1,3 +1,3 @@
 # cv
 
-Check My CV :: https://huraira29.github.io/cv/
+Check My CV :: https://hurairapbt.github.io/cv/
